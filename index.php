@@ -139,7 +139,7 @@
 		<!--Footer-->
 		<footer class="center">
 			<hr>
-			<span>&copy; Jia Yong Chong 2014</span>
+			<span>&copy; Jia Yong Chong 2017</span>
 		</footer>
 		
 	</div><!-- End Container -->
