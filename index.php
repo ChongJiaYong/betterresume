@@ -21,7 +21,7 @@
 	<!-- Header-->
 	<header>
 		<h1>Jia Yong Chong</h1>
-		<p>Student</p>
+		<p>Second Year Undergradate Student</p>
 	</header>
 	
 	<div class="container">
@@ -31,20 +31,44 @@
 			<h1><strong>Welcome!</Strong></h1>
 			<p align = "center">
 				Hi there! Welcome to my webpage! I'm a student currently studying in The Australia National Univeristy. I'm highly career motivated and am actively seeking opportunities to not only improve my technical skill set,
-				but also to gain additional soft skills. I hope you enjoy your stay at my webpage and I look forward to connecting with anyone whom wishes to do so. 
+				but also to gain additional soft skills. I am interested in many different academic fields such as computer science and psychology and have purchased textbooks and taken online courses to fulfill my academic curiosity. 
+				I hope you enjoy your stay at my webpage and I look forward to connecting with anyone whom wishes to do so. 
 			</p>
 		</section>
 		
 		<hr>
-	<!-- New container-->
-	<div class="container">
-	
-		<section class="education">	
-			<img src="img/anu logo.jpg" align="center" height="50">
-			<h2><Strong>Bachelor of Commerce (Accounting)</Strong> </br> The Australian Natonal University</h2>
-		</section>
 		
-		<hr>
+	<!-- New container-->
+	<h1 align="center">Education</h1>
+		<section class="experience">
+			<div class="row">
+				<div class="grid-2">
+					
+					<h2><strong><a style="color:grey; text-decoration:none" href="http://myburgerlab.com">Australia National University</a></strong></h2>
+					<p>Jan 2018 - Expected Dec 2019</p>
+				</div>
+				<div class="grid-4">
+					<ul>
+						<li>Received the 2018 ANU College of Business and Economics International Undergraduate Award </li></br>
+					</ul>
+				</div>
+			</div>
+
+				<div class="row">
+				<div class="grid-2">
+					
+					<h2><strong><a style="color:grey; text-decoration:none" href="http://myburgerlab.com">HELP University</a></strong></h2>
+					<p>Jan 2017 - Dec 2017</p>
+				</div>
+				<div class="grid-4">
+					<ul>
+						<li>Received a 70% merit scholarship </li></br>
+						<li>Achieved a CGPA of 3.83/4.0 as of Year 1, Sem 3</li>
+					</ul>
+				</div>
+			</div>
+			
+			<hr>
 			
 		<!--Experience Tables-->
 		<h1 align="center">Professional experience</h1>
@@ -59,7 +83,7 @@
 					<ul>
 						<li>Have accurately processed up to 500 orders per night while communicating effectively with my co-workers, thus creating a smooth work flow within the kitchen and maximizing sales of up to RM8,000 per day. </li></br>
 						<li>Received achievement awards from management in the form of cards for being proficient on the griddle and the assembly line. </li></br>
-						<li>Was assigned as a leader by the manager to lead a team of 3 other junior staff and displayed leadership skills by effectively delegating tasks and providing guidance to them.</li></br>
+						<li>Leader a team of 3 other junior staff and displayed leadership skills by effectively delegating tasks and providing guidance to them.</li></br>
 						<li>Demonstrated the ability to multitask by being delegated the responsibility of being a fryer who needs to keep track of multiple items cooking at once.</li></br>
 					</ul>
 				</div>
@@ -128,7 +152,8 @@
 				<div class="grid-4">
 					<h1>Conclusion</h1>
 					<p>
-						While I may not have the most experience or the broadest set of skills in the world, I currently am taking the steps neccesary to improve myself to become better. I can be contacted at jiayong.chong@outlook.com. 
+						While I may not have the most experience or the broadest set of skills in the world, I currently am taking the steps neccesary to improve myself to become better 
+						such as taking online courses and actively applying for voluntary work and committee positions in clubs. I can be contacted at jiayong.chong@outlook.com. 
 					</p>
 				</div>
 			</div>
