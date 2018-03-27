@@ -121,6 +121,7 @@
 					<ul>
 						<li>Basic HTML</li>
 						<li>SAP software</li>
+						<li>Advanced Excel and Word</li>
 					</ul>
 				</div>
 				
