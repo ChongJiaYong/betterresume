@@ -30,7 +30,7 @@
 		<section class="center">
 			<h1><strong>Welcome!</Strong></h1>
 			<p align = "center">
-				Hi there! Welcome to my webpage! I'm a 19 year old student currently studying in The Australia National Univeristy. I'm highly career motivated and am actively seeking opportunities to not only improve my technical skill set,
+				Hi there! Welcome to my webpage! I'm a student currently studying in The Australia National Univeristy. I'm highly career motivated and am actively seeking opportunities to not only improve my technical skill set,
 				but also to gain additional soft skills. I hope you enjoy your stay at my webpage and I look forward to connecting with anyone whom wishes to do so. 
 			</p>
 		</section>
