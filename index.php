@@ -44,7 +44,7 @@
 			<div class="row">
 				<div class="grid-2">
 					
-					<h2><strong><a style="color:grey; text-decoration:none" href="http://myburgerlab.com">Australia National University</a></strong></h2>
+					<h2><strong><a style="color:grey; text-decoration:none" href="http://www.anu.edu.au/">Australia National University</a></strong></h2>
 					<p>Jan 2018 - Expected Dec 2019</p>
 				</div>
 				<div class="grid-4">
@@ -57,7 +57,7 @@
 				<div class="row">
 				<div class="grid-2">
 					
-					<h2><strong><a style="color:grey; text-decoration:none" href="http://myburgerlab.com">HELP University</a></strong></h2>
+					<h2><strong><a style="color:grey; text-decoration:none" href="http://www.help.edu.my/">HELP University</a></strong></h2>
 					<p>Jan 2017 - Dec 2017</p>
 				</div>
 				<div class="grid-4">
@@ -146,6 +146,7 @@
 						<li>Basic HTML</li>
 						<li>SAP software</li>
 						<li>Advanced Excel and Word</li>
+						<li>Advanced MYOB</li>
 					</ul>
 				</div>
 				
@@ -164,7 +165,7 @@
 		<!--Footer-->
 		<footer class="center">
 			<hr>
-			<span>&copy; Jia Yong Chong 2017</span>
+			<span>&copy; Jia Yong Chong 2018</span>
 		</footer>
 		
 	</div><!-- End Container -->
