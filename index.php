@@ -44,7 +44,7 @@
 			<div class="row">
 				<div class="grid-2">
 					
-					<h2><strong><a style="color:grey; text-decoration:none" href="http://www.anu.edu.au/">Australia National University</a></strong></h2>
+					<h2><strong><a style="color:grey; text-decoration:none" href="http://www.anu.edu.au/" target = "blank">Australia National University</a></strong></h2>
 					<p>Jan 2018 - Expected Dec 2019</p>
 				</div>
 				<div class="grid-4">
@@ -57,7 +57,7 @@
 				<div class="row">
 				<div class="grid-2">
 					
-					<h2><strong><a style="color:grey; text-decoration:none" href="http://www.help.edu.my/">HELP University</a></strong></h2>
+					<h2><strong><a style="color:grey; text-decoration:none" href="http://www.help.edu.my/" target = "blank">HELP University</a></strong></h2>
 					<p>Jan 2017 - Dec 2017</p>
 				</div>
 				<div class="grid-4">
@@ -75,7 +75,7 @@
 		<section class="experience">
 			<div class="row">
 				<div class="grid-2">
-					<h2><strong><a style="color:grey; text-decoration:none" href="http://myburgerlab.com">myBurgerLab</a></strong></h2>
+					<h2><strong><a style="color:grey; text-decoration:none" href="http://myburgerlab.com" target = "blank">myBurgerLab</a></strong></h2>
 					<h4><em>Kitchen staff and Waiter</em></h4>
 					<p>Sep. 2017 - Jan. 2018</p>
 				</div>
@@ -90,7 +90,7 @@
 			</div>
 			<div class="row">
 				<div class="grid-2">
-					<h2><a style="color:grey; text-decoration:none" href="https://www.popular.com.sg/">POPULAR</a></h2>
+					<h2><a style="color:grey; text-decoration:none" href="https://www.popular.com.sg/" target = "blank">POPULAR</a></h2>
 					<h4><em>Retail Assistant</em></h4>
 					<p>Aug. 2017</p>
 				</div>
@@ -110,7 +110,33 @@
 		<section class="experience">
 			<div class="row">
 				<div class="grid-2">
-					<h2><strong><a style="color:grey; text-decoration:none" href="https://www.facebook.com/helpcos/">Community Outreach Society</a></strong></h2>
+					<h2><strong><a style="color:grey; text-decoration:none" href="http://vocalact.webs.com/" target = "blank">Victims of Crime Assistance League</a></strong></h2>
+					<p>May 2018 – Current</p>
+				</div>
+				<div class="grid-4">
+					<ul>
+						<li>Acting as the administrative assistant for VOCAL.</li></br>
+						<li>Currently working on the preparation of VOCAL’s financial statement and a budget to project the cash flow required by VOCAL. </li></br>
+						<li>Responsible for answering reception, receiving mail, making cheque payments and scheduling appointments. </li></br>
+					</ul>
+				</div>
+			</div>
+			<div class="row">
+				<div class="grid-2">
+					<h2><strong><a style="color:grey; text-decoration:none" href="https://www.facebook.com/MSO.at.ANU/" target = "blank">MSO ANU</a></strong></h2>
+					<p>Mar. 2018 – Current</p>
+				</div>
+				<div class="grid-4">
+					<ul>
+						<li>Acted as the head of resource for a food competition held for 27 contestants and an audience of about 70 people.</li></br>
+						<li>Developed critical thinking skills in determining the amount of resources that needs to be purchased and to ensure the resources purchased stayed within the allocated budget. </li></br>
+						<li>Volunteered to serve drinks for a night market and a bonfire night. </li></br>
+					</ul>
+				</div>
+			</div>
+			<div class="row">
+				<div class="grid-2">
+					<h2><strong><a style="color:grey; text-decoration:none" href="https://www.facebook.com/helpcos/" target = "blank">Community Outreach Society</a></strong></h2>
 					<p>Jan. 2017 – Dec. 2017</p>
 				</div>
 				<div class="grid-4">
@@ -124,7 +150,7 @@
 			</div>
 			<div class="row">
 				<div class="grid-2">
-					<h2><a style="color:grey; text-decoration:none" href="https://goo.gl/G8Yybf">Bizball Committee</a></h2>
+					<h2><a style="color:grey; text-decoration:none" href="https://goo.gl/G8Yybf" target = "blank">Bizball Committee</a></h2>
 					<p>Jan. 2017 – Oct. 2017</p>
 				</div>
 				<div class="grid-4">
