@@ -30,6 +30,23 @@ p {
   margin-top: 0em;
 }
 
+ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+li {
+  margin-left: 15px;
+  text-indent: -.7em;
+  padding-left: 0;
+}
+
+li::before {
+  list-style: none;
+  content: "• ";
+}
+
 img {
   max-width: 100%;
 }
@@ -324,4 +341,54 @@ footer hr {
   }
   
 
+/***
+  Logos
+***/
+.logo {
+  width: 100px;
+  height: 100px;
+}
 
+.anu-logo {
+  background-image: url("img/anu_logo.jpg");
+  background-size: cover;
+}
+
+.credential-heading {
+  margin-top: 0;
+}
+
+.help-logo {
+  background-image: url("img/help_logo.jpg");
+  background-size: cover;
+}
+
+.myburgerlab-logo {
+  background-image: url("img/myBurgerLab_logo.jpg");
+  background-size: cover;
+}
+
+.popular-logo {
+  background-image: url("img/popular_logo.jpg");
+  background-size: cover;
+}
+
+.vocal-logo {
+  background-image: url("img/vocal_logo.png");
+  background-size: cover;
+}
+
+.mso-logo {
+  background-image: url("img/mso_logo.jpg");
+  background-size: cover;
+}
+
+.cos-logo {
+  background-image: url("img/cos_logo.jpg");
+  background-size: cover;
+}
+
+.bizball-logo {
+  background-image: url("img/bizball_logo.jpg");
+  background-size: cover;
+}
