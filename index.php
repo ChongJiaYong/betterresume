@@ -84,7 +84,7 @@
 					<ul>
 						<li>Have accurately processed up to 500 orders per night while communicating effectively with my co-workers, thus creating a smooth work flow within the kitchen and maximizing sales of up to RM8,000 per day. </li></br>
 						<li>Received achievement awards from management in the form of cards for being proficient on the griddle and the assembly line. </li></br>
-						<li>Leader a team of 3 other junior staff and displayed leadership skills by effectively delegating tasks and providing guidance to them.</li></br>
+						<li>Lead a team of 3 other junior staff and displayed leadership skills by effectively delegating tasks and providing guidance to them.</li></br>
 						<li>Demonstrated the ability to multitask by being delegated the responsibility of being a fryer who needs to keep track of multiple items cooking at once.</li></br>
 					</ul>
 				</div>
