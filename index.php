@@ -146,7 +146,7 @@
 					<h2><strong>Community Outreach Society</a></strong></h2>
 					<p>Jan. 2017 – Dec. 2017</p>
 					<ul>
-						<li>Acted as the treasurer and head of logistics for a 3 days 2 nights camp participated by 50 volunteers to an urban area held for roughly 150 students.</li></br>
+						<li>Acted as the treasurer and head of logistics for a 3 days 2 nights camp participated by 50 volunteers to a rural area held for roughly 150 students.</li></br>
 						<li>Acted as the treasurer and secretary for a half day science camp for 60 11-year-old students.</li></br>
 						<li>Volunteered to visit an animal shelter and a shelter home for disabled and abandoned children.</li></br>
 						<li>Demonstrated collaborative skills by communicating effectively between the members of four different departments spread across 50 people and correctly identifying their needs for materials to be used during the camp.</li></br>
